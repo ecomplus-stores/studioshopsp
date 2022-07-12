@@ -56,7 +56,7 @@ import {
   import ShippingCalculator from '@ecomplus/storefront-components/src/ShippingCalculator.vue'
   import PaymentOption from '@ecomplus/storefront-components/src/PaymentOption.vue'
   import ecomPassport from '@ecomplus/passport-client'
-  import { toggleFavorite, checkFavorite } from './helpers/favorite-products'
+  import { toggleFavorite, checkFavorite } from '@ecomplus/storefront-components/src/js/helpers/favorite-products'
   
   const storefront = (typeof window === 'object' && window.storefront) || {}
   const getContextBody = () => (storefront.context && storefront.context.body) || {}

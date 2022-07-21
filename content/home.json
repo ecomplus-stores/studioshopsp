@@ -25,20 +25,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/oferta-do-dia.png",
-          "link": "https://www.studioshopsp.com/lampada-de-led-ceramica-xstorm-t10-w5w-branco-12v-luzes-interiores-de-carro-placa-luz-de-posicao-caixa-c-10-un",
-          "mobile_img": "/img/uploads/oferta-do-dia.png",
-          "alt": "Promo LED T10"
-        },
-        {
-          "img": "/img/uploads/oferta_peliculas.png",
-          "link": "https://www.studioshopsp.com/search?term=PROMO50",
-          "alt": "Oferta 50% ou mais Películas",
-          "mobile_img": "/img/uploads/oferta_peliculas.png"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",

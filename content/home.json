@@ -61,7 +61,11 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-08-09T22:39:50.786Z",
-      "end": "2022-08-09T22:39:50.931Z"
+      "end": "2022-08-15T02:59:50.931Z",
+      "offers": [
+        "6275f5f43da6d37bc2250999"
+      ],
+      "notes": "PROMOÇÃO SEMANA 08/08 E DIA DOS PAIS CONTINUA MUITO DESCONTO"
     },
     {
       "type": "collection-shelf",

@@ -47,12 +47,12 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-08-02T15:12:18.119Z",
-      "end": "2022-08-08T02:59:18.464Z",
+      "start": "2022-08-08T15:12:18.119Z",
+      "end": "2022-08-15T02:59:18.464Z",
       "offers": [
         "62c98924eb859112167f2f71"
       ],
-      "notes": "Aquecimento 08/08"
+      "notes": "Promo 08/08 com Semana dos Pais com Frete Grátis"
     },
     {
       "type": "collection-shelf",

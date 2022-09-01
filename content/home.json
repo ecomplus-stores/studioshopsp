@@ -39,16 +39,6 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-08-24T00:40:45.119Z",
-      "end": "2022-08-28T00:40:45.459Z",
-      "offers": [
-        "630570f273321213f8547865"
-      ],
-      "notes": "OFERTA IMPERDÍVEL COM FRETE GRÁTIS - ENTREGA INTERNACIONAL "
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
       "start": "2022-08-16T12:53:18.119Z",
       "end": "2022-09-01T02:59:18.464Z",
       "offers": [

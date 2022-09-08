@@ -62,7 +62,7 @@
             }"
             @click.prevent="setSelectedService(i)"
           >
-            <span :id="service.label.replace(' ', '-')" class="shipping-calculator__option">
+            <span :data-label="service.label.replace(' ', '-')" class="shipping-calculator__option">
               <slot
                 name="option"
                 v-bind="{ service }"

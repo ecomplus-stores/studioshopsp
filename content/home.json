@@ -65,9 +65,9 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2022-09-01T12:25:00.392Z",
+      "start": "2022-09-29T12:25:00.392Z",
       "end": "2022-11-01T02:59:00.791Z",
-      "notes": "Ganhe 25% de desconto na 3ª unidade. Válido somente para o mesmo produto indicados neste post, desconto aplicado automático no carrinho.",
+      "notes": "Ganhe até 25% de desconto na 3ª unidade. Válido somente para o mesmo produto indicados neste post, desconto aplicado automático no carrinho.",
       "offers": [
         "6275ee013da6d37bc224fb02",
         "6275f2e83da6d37bc225039d",

@@ -48,6 +48,11 @@
       "link": "https://www.studioshopsp.com/lampada-de-led-ceramica-xstorm-t10-w5w-branco-12v-luzes-interiores-de-carro-placa-luz-de-posicao-caixa-c-10-un"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/4.png",
+      "link": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-09-29T12:53:18.119Z",

@@ -53,6 +53,11 @@
       "link": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/5.png",
+      "link": "https://www.studioshopsp.com/search?term=FONE+DE+OUVIDO"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-09-29T12:53:18.119Z",

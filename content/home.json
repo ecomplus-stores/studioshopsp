@@ -37,6 +37,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/1.png",
+      "link": "https://www.studioshopsp.com/fone-de-ouvido-original-jbl-tune-110-35mm-com-fio-c-microfone-e-controle-pause-play-e-volume",
+      "alt": "COMPRE AGORA"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2022-09-29T12:53:18.119Z",

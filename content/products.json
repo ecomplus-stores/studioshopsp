@@ -36,6 +36,10 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
     }
   ]
 }

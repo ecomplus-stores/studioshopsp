@@ -133,6 +133,10 @@
       "collection_id": "627ad2203da6d37bc22c882f:categories:Fones com Fio:/fone-de-ouvido-com-fio",
       "sort": "offers",
       "link": "Fones c/ Fio "
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
     }
   ]
 }

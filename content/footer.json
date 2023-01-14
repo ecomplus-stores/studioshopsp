@@ -31,7 +31,7 @@
   "payment_methods": {
     "bb": false,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
@@ -45,6 +45,7 @@
     "hiper": true,
     "diners": true,
     "mais": false,
+    "pix": true,
     "amex": true,
     "itau": false
   },

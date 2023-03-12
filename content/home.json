@@ -92,12 +92,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
       "page": 1,
       "collection_id": "6275e9a03da6d37bc224efc4:categories:Película:/peliculas-protecao-de-tela-smart-band/",
       "sort": "offers",
-      "title": "Películas para Smartwatch / Smartband"
+      "title": "Leve 3 Pague 2 - Películas para Smartwatch / Smartband"
     },
     {
       "type": "collection-shelf",

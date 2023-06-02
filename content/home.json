@@ -26,14 +26,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/touca-gorro.png",
-          "link": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
-          "alt": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
-          "mobile_img": "/img/uploads/gorro-touca.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/pads.png",
           "link": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
           "alt": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
@@ -46,6 +38,14 @@
           "alt": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
           "link": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
           "img": "/img/uploads/sceen.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/touca-gorro.png",
+          "link": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
+          "alt": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
+          "mobile_img": "/img/uploads/gorro-touca.png"
         }
       ]
     },

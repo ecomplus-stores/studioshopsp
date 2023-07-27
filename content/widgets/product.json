@@ -5,7 +5,7 @@
   "options": {
     "buyText": "Compra Agora",
     "buy": "",
-    "strHasQuantitySelector": " ",
+    "strHasQuantitySelector": "true",
     "strHasPromotionTimer": "true",
     "lowQuantityToWarn": 12,
     "maxVariationOptionsBtns": 6,

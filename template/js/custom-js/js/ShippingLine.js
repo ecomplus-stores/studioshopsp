@@ -46,7 +46,7 @@ import {
         const today = date.getDay()
         console.log(today)
         const isWeekend = today === 0 || today === 6
-        return i18n(days === 1 && isWeekend
+        return i18n((days === 1 || days === 0) && isWeekend
           ? 'Receba na Segunda'
           : days === 1 && !isWeekend ? i19untilTomorrow : shipping.pick_up ? i19pickUpToday : i19receiveToday)
       },

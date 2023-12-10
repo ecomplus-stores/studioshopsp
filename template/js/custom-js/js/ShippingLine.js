@@ -25,6 +25,9 @@ import {
       productionDeadline: {
         type: Number,
         default: 0
+      },
+      label: {
+        type: String
       }
     },
   
@@ -47,7 +50,7 @@ import {
         console.log(today)
         const isWeekend = today === 0 || today === 6
         return i18n((days === 0 || days === 1) && isWeekend
-          ? 'Receba na Segunda'
+          ? this.label === 'SEDEX-HOJE ¹' ? 'Receba na Segunda' : 'Receba na Terça'
           : days === 1 && !isWeekend ? i19untilTomorrow : shipping.pick_up ? i19pickUpToday : i19receiveToday)
       },
   

@@ -70,6 +70,7 @@
                 <shipping-line
                   :shipping-line="service.shipping_line"
                   :production-deadline="productionDeadline"
+                  :label="service.label.replace(' ', '-')"
                 />
                 <small>{{ service.label }}</small>
               </slot>

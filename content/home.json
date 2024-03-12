@@ -8,18 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2024-03-10T03:00:00.000Z",
-          "end": "2024-03-18T02:59:00.000Z",
-          "img": "/img/uploads/banner-semana-consumidor.jpg",
-          "alt": "PROMO SEMANA DO CONSUMIDOR"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-desktop.png",
           "mobile_img": "/img/uploads/banner-mobile.png",
           "alt": "https://www.studioshopsp.com/pages/entrega",
           "link": "https://www.studioshopsp.com/pages/entrega"
+        },
+        {
+          "start": "2024-03-10T03:00:00.000Z",
+          "end": "2024-03-18T02:59:00.000Z",
+          "img": "/img/uploads/banner-semana-consumidor.jpg",
+          "alt": "PROMO SEMANA DO CONSUMIDOR"
         },
         {
           "start": "",

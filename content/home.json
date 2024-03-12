@@ -8,6 +8,12 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-03-10T03:00:00.000Z",
+          "end": "2024-03-18T02:59:00.000Z",
+          "img": "/img/uploads/banner-semana-consumidor.jpg",
+          "alt": "PROMO SEMANA DO CONSUMIDOR"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-desktop.png",
@@ -16,10 +22,20 @@
           "link": "https://www.studioshopsp.com/pages/entrega"
         },
         {
-          "start": "2024-03-10T03:00:00.000Z",
-          "end": "2024-03-18T02:59:00.000Z",
-          "img": "/img/uploads/banner-semana-consumidor.jpg",
-          "alt": "PROMO SEMANA DO CONSUMIDOR"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/touca-gorro.png",
+          "link": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
+          "alt": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
+          "mobile_img": "/img/uploads/gorro-touca.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/screen.png",
+          "alt": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
+          "link": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
+          "img": "/img/uploads/sceen.png"
         },
         {
           "start": "",
@@ -36,22 +52,6 @@
           "link": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
           "alt": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
           "mobile_img": "/img/uploads/borrachinhas.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/screen.png",
-          "alt": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
-          "link": "https://www.studioshopsp.com/peliculas-protecao-de-tela-smart-band/",
-          "img": "/img/uploads/sceen.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/touca-gorro.png",
-          "link": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
-          "alt": "https://www.studioshopsp.com/touca-gorro-bad-hair-day-tumblr-swag-skate-unissex-hype",
-          "mobile_img": "/img/uploads/gorro-touca.png"
         }
       ]
     },

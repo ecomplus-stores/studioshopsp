@@ -85,6 +85,15 @@
         "EIT1069"
       ],
       "id": "Leve 3 Pague 2 Pads"
+    },
+    {
+      "id": "Demais Promo L3P2",
+      "img": "/img/uploads/leve3-pague2-pads.png",
+      "skus": [
+        "ZDP2222",
+        "GDY3845",
+        "ZWC9226"
+      ]
     }
   ]
 }

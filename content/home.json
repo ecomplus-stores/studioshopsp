@@ -16,6 +16,12 @@
           "link": "https://www.studioshopsp.com/pages/entrega"
         },
         {
+          "start": "2025-03-09T03:00:00.000Z",
+          "end": "2025-03-16T02:59:00.000Z",
+          "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido.jpg",
+          "mobile_img": "/img/uploads/borrachinhas.png"
+        },
+        {
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/screen.png",
@@ -37,12 +43,6 @@
           "img": "/img/uploads/pads.png",
           "link": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
           "alt": "https://www.studioshopsp.com/pads-eartips-silicone-earbuds/",
-          "mobile_img": "/img/uploads/borrachinhas.png"
-        },
-        {
-          "start": "2025-03-09T03:00:00.000Z",
-          "end": "2025-03-16T02:59:00.000Z",
-          "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido.jpg",
           "mobile_img": "/img/uploads/borrachinhas.png"
         }
       ]

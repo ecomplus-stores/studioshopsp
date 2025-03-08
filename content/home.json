@@ -11,7 +11,9 @@
           "start": "2025-03-09T03:00:00.000Z",
           "end": "2025-03-16T02:59:00.000Z",
           "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido.jpg",
-          "mobile_img": "/img/uploads/borrachinhas.png"
+          "mobile_img": "/img/uploads/borrachinhas.png",
+          "link": "https://www.studioshopsp.com",
+          "alt": "https://www.studioshopsp.com"
         },
         {
           "start": "",

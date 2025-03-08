@@ -8,18 +8,18 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2025-03-09T03:00:00.000Z",
+          "end": "2025-03-16T02:59:00.000Z",
+          "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido.jpg",
+          "mobile_img": "/img/uploads/borrachinhas.png"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-desktop.png",
           "mobile_img": "/img/uploads/banner-mobile.png",
           "alt": "https://www.studioshopsp.com/pages/entrega",
           "link": "https://www.studioshopsp.com/pages/entrega"
-        },
-        {
-          "start": "2025-03-09T03:00:00.000Z",
-          "end": "2025-03-16T02:59:00.000Z",
-          "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido.jpg",
-          "mobile_img": "/img/uploads/borrachinhas.png"
         },
         {
           "start": "",

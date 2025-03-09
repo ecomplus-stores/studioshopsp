@@ -10,18 +10,18 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desktop.png",
-          "mobile_img": "/img/uploads/banner-mobile.png",
-          "alt": "https://www.studioshopsp.com/pages/entrega",
-          "link": "https://www.studioshopsp.com/pages/entrega"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/todos-os-acessorios-para-fone-de-ouvido-1-.jpg",
           "mobile_img": "/img/uploads/borrachinhas.png",
           "link": "https://www.studioshopsp.com/",
           "alt": "https://www.studioshopsp.com/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-desktop.png",
+          "mobile_img": "/img/uploads/banner-mobile.png",
+          "alt": "https://www.studioshopsp.com/pages/entrega",
+          "link": "https://www.studioshopsp.com/pages/entrega"
         },
         {
           "start": "",

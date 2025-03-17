@@ -74,11 +74,11 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-03-07T12:25:00.392Z",
-      "end": "2024-07-30T02:58:00.000Z",
+      "start": "",
+      "end": "2025-05-01T02:58:00.000Z",
       "notes": "Ofertas Imperdíveis",
       "offers": [
-        "6410df2f4bd2e929c19ca7dc",
+        "628e5f71ac0cb4200fe8150e",
         "6275f2e83da6d37bc225039d",
         "6275f2f93da6d37bc22503c0",
         "6275f6753da6d37bc2250a36"

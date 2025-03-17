@@ -61,15 +61,15 @@
     {
       "type": "offers-timer",
       "max_hours": 24,
-      "start": "2023-03-07T12:39:50.786Z",
-      "end": "2024-07-30T02:59:00.000Z",
+      "start": "",
+      "end": "2025-05-01T02:59:00.000Z",
       "offers": [
-        "6275f6753da6d37bc2250a36",
+        "6410df2f4bd2e929c19ca7dc",
         "6275f4d13da6d37bc2250784",
         "6275f4f93da6d37bc22507cd",
         "64794c81a0e875411ea7bf30"
       ],
-      "notes": "Liquida já #StudioShopSP Últimas peças. A partir de  R$49,99 Un."
+      "notes": "Liquida já #StudioShopSP"
     },
     {
       "type": "offers-timer",

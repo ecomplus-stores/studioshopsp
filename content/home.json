@@ -62,7 +62,7 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "",
-      "end": "2025-05-01T02:59:00.000Z",
+      "end": "2025-08-01T02:59:00.000Z",
       "offers": [
         "6410df2f4bd2e929c19ca7dc",
         "63db271fb9e5be07784f7f73",

@@ -18,6 +18,12 @@
           "end": "",
           "mobile_img": "/img/uploads/4.png",
           "img": "/img/uploads/3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pelicula-desktop.png",
+          "mobile_img": "/img/uploads/pelicula-mobile.png"
         }
       ]
     },

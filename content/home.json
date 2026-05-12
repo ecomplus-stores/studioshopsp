@@ -35,7 +35,7 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "",
-      "end": "2026-05-01T02:59:00.000Z",
+      "end": "2026-07-01T02:59:00.000Z",
       "offers": [
         "675ae81da0c96d5393cd0e56",
         "666f2a3ff4e6d85ab2ae17f3",

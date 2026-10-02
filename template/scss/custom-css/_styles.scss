@@ -2,3 +2,14 @@
 #s-smart-band_ {
   grid-template-columns: repeat(auto-fit,minmax(50%,1fr)) !important;
 }
+
+.shipping-calculator__notice {
+  margin-bottom: .5rem;
+  padding: .5rem .75rem;
+  border-radius: .25rem;
+  background-color: rgba(0, 125, 197, .08);
+  color: var(--primary, #007dc5);
+  font-size: .8rem;
+  line-height: 1.4;
+  text-align: center;
+}

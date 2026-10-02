@@ -32,6 +32,14 @@
     </form>
   
     <div class="shipping-calculator__services">
+      <div
+        v-if="canInputZip && !isWaiting && shippingServices.length"
+        class="shipping-calculator__notice"
+      >
+        🚚 <strong>QUANTO MAIS UNIDADES, MAIOR O DESCONTO NO FRETE!</strong><br>
+        ATÉ R$20 OFF — SEU FRETE PODE SAIR GRÁTIS!
+      </div>
+
       <transition-group
         enter-active-class="animated fadeInDown"
         leave-active-class="animated position-absolute fadeOutUp"
@@ -78,7 +86,7 @@
           </component>
         </div>
       </transition-group>
-  
+
       <transition
         enter-active-class="animated fadeInUp"
         leave-active-class="animated fadeOutDown"

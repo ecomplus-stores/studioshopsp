@@ -1,6 +1,11 @@
 {
   "sections": [
     {
+      "type": "page-title",
+      "description": "🚚 QUANTO MAIS UNIDADES, MAIOR O DESCONTO NO FRETE! ATÉ R$20 OFF — ** SEU FRETE PODE SAIR GRÁTIS!",
+      "title": "** FRETE GRÁTIS **"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -40,11 +45,6 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
-    },
-    {
-      "type": "page-title",
-      "description": "🚚 QUANTO MAIS UNIDADES, MAIOR O DESCONTO NO FRETE! ATÉ R$20 OFF — ** SEU FRETE PODE SAIR GRÁTIS!",
-      "title": "** FRETE GRÁTIS **"
     }
   ]
 }

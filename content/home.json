@@ -132,6 +132,11 @@
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
+    },
+    {
+      "type": "page-title",
+      "title": "🚚 QUANTO MAIS UNIDADES, MAIOR O DESCONTO NO FRETE! ATÉ R$20 OFF — SEU FRETE PODE SAIR GRÁTIS!",
+      "description": "🚚 QUANTO MAIS UNIDADES, MAIOR O DESCONTO NO FRETE! ATÉ R$20 OFF — SEU FRETE PODE SAIR GRÁTIS!"
     }
   ]
 }
